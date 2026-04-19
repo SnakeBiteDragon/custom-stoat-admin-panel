@@ -1,0 +1,12 @@
+{
+  "name": "custom-stoat-admin-panel",
+  "version": "1.0.0",
+  "description": "Admin panel for managing invites, users, and servers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
